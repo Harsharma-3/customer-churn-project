@@ -1,5 +1,3 @@
-# customer-churn-project
-Customer Churn Project using Machine Learning
 # Customer Churn Prediction using Machine Learning
 
 ## 👨‍🎓 Student Details
