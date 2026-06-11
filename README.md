@@ -1,12 +1,5 @@
 # Customer Churn Prediction using Machine Learning
 
-## 👨‍🎓 Student Details
-- Name: Harsh
-- Course: Artifical Intelligence & Machine Learning
-- Batch: 93
-
----
-
 ## 📌 Problem Statement
 Customer churn refers to customers leaving a service provider. 
 This project aims to predict whether a customer will churn using Machine Learning techniques.
